@@ -1,0 +1,5 @@
+# Ignorar arquivos de compilação do Docker
+*.tar
+*.tar.gz
+*.dockerignore
+
